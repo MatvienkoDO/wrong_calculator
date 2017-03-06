@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wrong Calculator</string>
+    <string name="sign_plus">+</string>
+    <string name="sign_minus">-</string>
+    <string name="sign_multi">*</string>
+    <string name="sign_razd">:</string>
+    <string name="button_cancel_text">C</string>
+</resources>
